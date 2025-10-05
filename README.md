@@ -1,6 +1,9 @@
-# ArchLinux Hardened
+# ArchLinux Hardened (With Hyprland)
 
-This repository contains my ArchLinux setup which focuses on desktop security.
+This repository contains ShellCode33's ArchLinux setup which focuses on desktop security.
+It was forked by me in order to replace sway WM with Hyprland.
+
+The rest of this readme is exactly what was written in the original one:
 
 Beside security, my setup also aims to use all the bleeding edge and state of the art software we currently have available, most notably:
 
